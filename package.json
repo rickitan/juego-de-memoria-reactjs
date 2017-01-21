@@ -1,0 +1,21 @@
+{
+  "name": "juego-parejas-reactjs",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "lodash.shuffle": "^4.2.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-flipcard": "^0.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
